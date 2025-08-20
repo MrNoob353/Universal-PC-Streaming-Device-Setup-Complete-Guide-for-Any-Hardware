@@ -38,6 +38,3 @@ sudo apt install chromium-browser
 # Firefox with hardware acceleration
 ```
 sudo apt install firefox
-
-
-
