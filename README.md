@@ -26,9 +26,8 @@ Mini PCs: Intel NUC, Beelink, ASUS PN series
 Older Hardware: Even 10+ year old systems can run effectively with optimization
 
 # Installation Commands:
-
-```
 # Brave Browser (your preference)
+```
 sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
 sudo apt update && sudo apt install brave-browser
 
