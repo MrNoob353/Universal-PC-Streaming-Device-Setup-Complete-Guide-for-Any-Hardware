@@ -25,8 +25,9 @@ Mini PCs: Intel NUC, Beelink, ASUS PN series
 
 Older Hardware: Even 10+ year old systems can run effectively with optimization
 
-Installation Commands:
+# Installation Commands:
 
+```
 # Brave Browser (your preference)
 sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
 sudo apt update && sudo apt install brave-browser
@@ -36,3 +37,33 @@ sudo apt install chromium-browser
 
 # Firefox with hardware acceleration
 sudo apt install firefox
+```
+```
+
+## Key Changes Made:
+
+1. **Code block delimiters**: Use triple backticks ``` with `bash` language identifier
+2. **Comments**: Use single `#` instead of `*#...*`
+3. **URL**: Keep the URL as plain text inside the code block (remove the markdown link formatting `[text](url)`)
+4. **Clean formatting**: Remove the asterisks around comments
+
+## Alternative: If you want explanatory text outside the code block:
+
+```
+**Brave Browser (your preference)**:
+```bash
+sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+sudo apt update && sudo apt install brave-browser
+```
+
+**Alternative: Chromium for better PWA support**:
+```bash
+sudo apt install chromium-browser
+```
+
+**Firefox with hardware acceleration**:
+```bash
+sudo apt install firefox
+```
+
+
