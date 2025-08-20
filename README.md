@@ -25,3 +25,8 @@ Mini PCs: Intel NUC, Beelink, ASUS PN series
 
 Older Hardware: Even 10+ year old systems can run effectively with optimization
 
+Enhanced Browser and Web App Configuration
+
+Multi-Browser Support
+
+While you prefer Brave for ad blocking, 
