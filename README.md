@@ -41,4 +41,5 @@ sudo apt install firefox
 ```
 # IF the Browser doesn't open in Plasma Big screen x11
 Try installing from the commands I have provided or check the Brave's LINUX installation 
+
 PAGE :https://brave.com/linux/
