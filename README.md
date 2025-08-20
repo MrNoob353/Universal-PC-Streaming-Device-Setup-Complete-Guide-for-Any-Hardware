@@ -3,7 +3,7 @@ ve researched and developed a comprehensive guide to help anyone transform virtu
 Hardware Compatibility and Requirements
 The beauty of using Kubuntu with Plasma Bigscreen is its universal hardware compatibility. Research shows that this setup works effectively across a wide range of hardware configurations:
 
-Minimum Requirements
+# Minimum Requirements
 
 CPU: Any x86-64 processor (Intel/AMD)
 
@@ -13,7 +13,7 @@ Storage: 32GB minimum (64GB+ recommended for apps and cache)
 
 Graphics: Integrated graphics sufficient for 1080p; dedicated GPU recommended for 4K
 
-Compatible Hardware Types
+# Compatible Hardware Types
 
 Your setup works on virtually any PC configuration:
 
