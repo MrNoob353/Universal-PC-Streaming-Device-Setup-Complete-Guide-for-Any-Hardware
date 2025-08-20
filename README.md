@@ -52,6 +52,15 @@ Install Qt6 WebEngine dependencies:
 ````
 sudo apt install qt6-webengine-dev libqt6webenginecore6 libqt6webenginewidgets6
 ````
+# Installing Plasma Bigscreen
+Plasma Bigscreen is available in the Ubuntu 24.04 repositories. The package version 5.27.11-0ubuntu2 is included in the universe repository for Ubuntu Noble (24.04).
 
+Install Plasma Bigscreen:
+
+```
+bash
+sudo apt update
+sudo apt install plasma-bigscreen
+```
 
 
