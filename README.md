@@ -40,6 +40,18 @@ sudo apt install chromium-browser
 sudo apt install firefox
 ```
 # IF the Browser doesn't open in Plasma Big screen x11
-Try installing from the commands I have provided or check the Brave's LINUX installation 
+Try installing from the commands I have provided or check the Brave's LINUX installation Page
 
-PAGE :https://brave.com/linux/
+LINK:https://brave.com/linux/
+
+or  
+
+If browsers still won't launch, resolve Qt6 platform plugin problems:
+
+Install Qt6 WebEngine dependencies:
+````
+sudo apt install qt6-webengine-dev libqt6webenginecore6 libqt6webenginewidgets6
+````
+
+
+
